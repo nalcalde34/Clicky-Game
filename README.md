@@ -1,8 +1,8 @@
 # Clicky Game
 
-### This React application displays characters from Parks and Recreation, and as each item is clicked the order they are displayed in randomly changes. The objective is to avoid clicking on a character twice in a row, or else the score counter resets. 
+#### This React application displays characters from Parks and Recreation, and as each item is clicked the order they are displayed in randomly changes. The objective is to avoid clicking on a character twice in a row, or else the score counter resets. 
 
-![Screenshot (30)](https://user-images.githubusercontent.com/49291154/67432123-a48a7800-f5b3-11e9-809d-a82c0d92c7f9.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/49291154/67442457-de1cac80-f5ce-11e9-9a58-c46b1740b839.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
